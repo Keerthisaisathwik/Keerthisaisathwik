@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Keerthisaisathwik
-- 👀 I’m interested in Creating Web Development Application
+- 👀 I’m interested in Creating Web Development Applications
 - 🌱 I’m currently learning Spring Boot, Angular
 - 📫 How to reach me "https://www.linkedin.com/in/sai-sathwik-386a27218/" linked in profile.😊👍
 <!---
