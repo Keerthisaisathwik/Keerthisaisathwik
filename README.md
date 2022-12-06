@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Keerthisaisathwik
-- 👀 I’m interested in Learning and my skills in software
-- 🌱 I’m currently learning CSS, Angular
-- 📫 How to reach me "https://www.linkedin.com/in/sai-sathwik-386a27218/" this is my linked in profile.😊👍
+- 👀 I’m interested in Learning and my skills in Web Development
+- 🌱 I’m currently learning Nodejs, React, Angular
+- 📫 Follow me in "https://www.linkedin.com/in/sai-sathwik-386a27218/" this is my linked in profile.😊👍
