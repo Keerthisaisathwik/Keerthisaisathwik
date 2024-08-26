@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Keerthisaisathwik
 - 👀 I’m interested in Learning and my skills in Web Development
-- 🌱 I’m currently learning Nodejs, React
+- 🌱 I’m currently learning Nextjs, React
 - 📫 Follow me at "https://www.linkedin.com/in/sai-sathwik-386a27218/" this is my LinkedIn profile.😊👍
