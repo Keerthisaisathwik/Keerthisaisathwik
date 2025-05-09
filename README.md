@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Keerthisaisathwik
 - 👀 I’m interested in Learning and my skills in Web Development
-- 🌱 I’m currently learning Nextjs, React
-- 📫 Follow me at "https://www.linkedin.com/in/sai-sathwik-386a27218/" this is my LinkedIn profile.😊👍
+- 🌱 I’m currently learning more about Docker, Kubernetes
+- ⚒️ I have experience in Next.js, React, Spring Boot
+- 📫 Follow me at "https://www.linkedin.com/in/sai-sathwik-386a27218/", my LinkedIn profile.😊👍
